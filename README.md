@@ -24,4 +24,4 @@ desarrollo.
 
 3.  **Accede al proyecto corriendo en tu navegador favorito**
 
-    Esta mini aplicación debería estar corriendo en `http://localhost:3000!`
+    Esta mini aplicación debería ahora estar corriendo en `http://localhost:3000`
