@@ -1,4 +1,6 @@
+
 const saludo = "hola a todos";
+
 
 document.getElementById("root").innerHTML = saludo;
 
