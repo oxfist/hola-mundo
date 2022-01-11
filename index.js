@@ -1,4 +1,4 @@
-const saludo = "¡Hola, mundo!";
+const saludo = "hola laboratoria";
 
 document.getElementById("root").innerHTML = saludo;
 
